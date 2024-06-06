@@ -1,6 +1,7 @@
 {
 	"variants": [
 		{
+      "id": 1,
 			"name": "Bike water bottle",
 			"color": "Gray",
 			"locations": {
@@ -9,6 +10,7 @@
 			}
 		},
 		{
+      "id": 2,
 			"name": "Bike water bottle",
 			"color": "Green to Pink",
 			"locations": {
@@ -17,6 +19,7 @@
 			}
 		},
 		{
+      "id": 3,
 			"name": "Bike water bottle",
 			"color": "Navy Blue",
 			"locations": {
@@ -25,6 +28,7 @@
 			}
 		},
 		{
+      "id": 4,
 			"name": "Bike water bottle",
 			"color": "Olive Green",
 			"locations": {
@@ -33,6 +37,7 @@
 			}
 		},
 		{
+      "id": 5,
 			"name": "Bike water bottle",
 			"color": "Red",
 			"locations": {
@@ -41,6 +46,7 @@
 			}
 		},
 		{
+      "id": 6,
 			"name": "Bike water bottle",
 			"color": "Sky Blue",
 			"locations": {
