@@ -1,0 +1,52 @@
+{
+	"variants": [
+		{
+			"name": "Bike water bottle",
+			"color": "Gray",
+			"locations": {
+				"New York": 20,
+				"Los Angeles": 0
+			}
+		},
+		{
+			"name": "Bike water bottle",
+			"color": "Green to Pink",
+			"locations": {
+				"New York": 1,
+				"Los Angeles": 1
+			}
+		},
+		{
+			"name": "Bike water bottle",
+			"color": "Navy Blue",
+			"locations": {
+				"New York": 9,
+				"Los Angeles": 8
+			}
+		},
+		{
+			"name": "Bike water bottle",
+			"color": "Olive Green",
+			"locations": {
+				"New York": 0,
+				"Los Angeles": 14
+			}
+		},
+		{
+			"name": "Bike water bottle",
+			"color": "Red",
+			"locations": {
+				"New York": 2,
+				"Los Angeles": 9
+			}
+		},
+		{
+			"name": "Bike water bottle",
+			"color": "Sky Blue",
+			"locations": {
+				"New York": 7,
+				"Los Angeles": 8
+			}
+		}
+	]
+}
